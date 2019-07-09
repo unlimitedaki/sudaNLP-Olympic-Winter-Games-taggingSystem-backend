@@ -1,0 +1,2 @@
+{"answer": "冰球", "question": "Viktor Kostyuchonok是哪个冬奥项目的名将?", "sentenceType": "Whether#Which#Which", "user": "1215477513@qq.com#1215477513@qq.com#1215477513@qq.com", "intentionType": "事实#事实#事实"}
+{"answer": "跳台", "question": "奥运会竞技跳水按照起跳地材质分为跳板和什么两种", "sentenceType": "How#How", "user": "1215477513@qq.com#1215477513@qq.com", "intentionType": "事实#事实"}
